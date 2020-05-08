@@ -1,0 +1,48 @@
+.header{
+height: 50px;
+border-bottom: 1px solid black;
+}
+
+.loader {
+  color:#b3b3b3;
+  align-self: center;
+  font-size: 40px;
+} 
+
+.button-align{
+  width:200px;
+}
+
+.half{
+  width : 45%;
+} 
+.lef{
+  left:5%;
+}
+/* 
+.r1{
+  display: inline;
+   width:20%
+}
+
+.r2{
+  display: inline;
+  widows: 20%;
+  left:5%
+} */
+
+.department_select{
+width: 97.6%;
+margin-bottom: 15px;
+}
+
+.light-mode {
+  background-color: #fff;
+  color: #333;
+ /* transition: background-color 0.25s ease-out; */
+}
+
+.dark-mode {
+  background-color: #1a1919;
+  color: #999;
+}

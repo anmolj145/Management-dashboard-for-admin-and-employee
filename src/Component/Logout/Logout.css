@@ -1,0 +1,14 @@
+.logout{
+   margin-left: 25%;
+   margin-right: 25%;
+   margin-top: 15%;
+   align-items: center;
+   border:1px solid black;
+   border-radius: 5px ;
+   border-color: #999999;
+   background-color: white;
+}
+
+.logout-text{
+ padding:20px;
+}

@@ -1,0 +1,363 @@
+{
+  "department": [
+    {
+      "id": 1,
+      "count": 6,
+      "department_name": "Development"
+    },
+    {
+      "id": 2,
+      "count": 2,
+      "department_name": "Finance"
+    },
+    {
+      "id": 3,
+      "count": 2,
+      "department_name": "Marketing"
+    }
+  ],
+  "employee": [
+    {
+      "id": 1,
+      "firstName": "Anmol",
+      "lastName": "Jain",
+      "gender": "Male",
+      "date_of_birth": "1997-01-01",
+      "department_name": "Development",
+      "department_id": 1,
+      "city": "Jabalpur",
+      "mobile": "9876543210",
+      "email": "anmol@gmail.com",
+      "joining_date": "2019-07-01",
+      "lat": 23.1815,
+      "lng": 79.9864,
+      "password": "Admin@123",
+      "isLoggedin": false,
+      "isAdmin": true,
+      "last_login": "Jan 31 2020 18:35:45",
+      "hobby": {
+        "sport": [
+          "Football",
+          "Hockey"
+        ],
+        "mental_activity": [
+          "Chess",
+          "Puzzle",
+          "Quiz"
+        ],
+        "cultural": [
+          "Singing",
+          "Dance",
+          "Poetry",
+          "Drama"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "firstName": "Vikas",
+      "lastName": "Choudhary",
+      "gender": "Male",
+      "date_of_birth": "1998-01-27",
+      "department_name": "Finance",
+      "department_id": 2,
+      "city": "Patna",
+      "mobile": "9876543210",
+      "email": "vikas@gmail.com",
+      "joining_date": "2019-03-01",
+      "lat": 25.5941,
+      "lng": 85.1376,
+      "password": "Admin@123",
+      "isLoggedin": false,
+      "isAdmin": false,
+      "last_login": "Jan 06 2020 18:18:12",
+      "hobby": {
+        "sport": [
+          "Hockey"
+        ],
+        "mental_activity": [
+          "Chess"
+        ],
+        "cultural": [
+          "Singing",
+          "Drama"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "firstName": "Punit",
+      "lastName": "Sharma",
+      "gender": "Male",
+      "date_of_birth": "1998-08-13",
+      "department_name": "Finance",
+      "department_id": 2,
+      "city": "Sheopur",
+      "mobile": "9876543210",
+      "email": "punit@gmail.com",
+      "joining_date": "2019-07-15",
+      "lat": 25.6728,
+      "lng": 76.6961,
+      "password": "Admin@123",
+      "isLoggedin": false,
+      "isAdmin": true,
+      "last_login": "Jan 27 2020 16:22:20",
+      "hobby": {
+        "sport": [
+          "Hockey"
+        ],
+        "mental_activity": [
+          "Puzzle"
+        ],
+        "cultural": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "firstName": "Bhanu",
+      "lastName": "Pratap",
+      "gender": "Male",
+      "date_of_birth": "1996-05-01",
+      "department_name": "Development",
+      "department_id": 1,
+      "city": "Jaipur",
+      "mobile": "9876543210",
+      "email": "bhanu@gmail.com",
+      "joining_date": "2019-10-01",
+      "lat": 26.9124,
+      "lng": 75.7873,
+      "password": "Admin@123",
+      "isLoggedin": false,
+      "isAdmin": false,
+      "last_login": "Jan 28 2020 16:11:27",
+      "hobby": {
+        "sport": [
+          "Cricket"
+        ],
+        "mental_activity": [
+          "Chess"
+        ],
+        "cultural": [
+          "Singing"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "firstName": "Neha",
+      "lastName": "Sharma",
+      "gender": "Female",
+      "date_of_birth": "1998-09-08",
+      "department_name": "Marketing",
+      "department_id": 3,
+      "city": "Hoshangabad",
+      "mobile": "9876543210",
+      "email": "kadambary@gmail.com",
+      "joining_date": "2019-12-01",
+      "lat": 22.7439,
+      "lng": 77.7359,
+      "password": "Admin@123",
+      "isLoggedin": false,
+      "isAdmin": false,
+      "last_login": "Jan 27 2020 10:43:43",
+      "hobby": {
+        "sport": [
+          "Football"
+        ],
+        "mental_activity": [
+          "Quiz"
+        ],
+        "cultural": [
+          "Singing",
+          "Drama"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "firstName": "Amit",
+      "lastName": "Mundra",
+      "gender": "Male",
+      "date_of_birth": "1997-10-17",
+      "department_name": "Marketing",
+      "department_id": 3,
+      "city": "Jodhpur",
+      "mobile": "9876543210",
+      "email": "amit@gmail.com",
+      "joining_date": "2019-01-01",
+      "lat": 26.2389,
+      "lng": 73.0243,
+      "password": "Admin@123",
+      "isLoggedin": false,
+      "isAdmin": false,
+      "last_login": "Jan 27 2020 16:29:31",
+      "hobby": {
+        "sport": [
+          "Cricket",
+          "Football",
+          "Hockey"
+        ],
+        "mental_activity": [
+          "Chess",
+          "Puzzle",
+          "Quiz"
+        ],
+        "cultural": [
+          "Singing"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "firstName": "Arti",
+      "lastName": "Nigam",
+      "gender": "Female",
+      "date_of_birth": "1994-11-03",
+      "department_name": "Development",
+      "department_id": 1,
+      "city": "Rewari",
+      "mobile": "9876543210",
+      "email": "kanika@gmail.com",
+      "joining_date": "2018-07-01",
+      "lat": 28.192,
+      "lng": 76.6191,
+      "password": "Admin@123",
+      "isLoggedin": false,
+      "isAdmin": false,
+      "last_login": "Jan 27 2020 12:53:28",
+      "hobby": {
+        "sport": [
+          "Football"
+        ],
+        "mental_activity": [
+          "Quiz"
+        ],
+        "cultural": [
+          "Drama"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "firstName": "Pulkit",
+      "lastName": "Dwivedi",
+      "gender": "Male",
+      "date_of_birth": "1996-07-31",
+      "department_name": "Development",
+      "department_id": 1,
+      "city": "Kota",
+      "mobile": "9876543210",
+      "email": "pulkit@gmail.com",
+      "joining_date": "2019-07-01",
+      "lat": 25.2138,
+      "lng": 75.8648,
+      "password": "Admin@123",
+      "isLoggedin": false,
+      "isAdmin": true,
+      "last_login": "Jan 27 2020 16:22:44",
+      "hobby": {
+        "sport": [
+          "Cricket"
+        ],
+        "mental_activity": [
+          "Quiz"
+        ],
+        "cultural": [
+          "Singing"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "firstName": "Ankit",
+      "lastName": "Kumar",
+      "gender": "Male",
+      "date_of_birth": "1994-11-03",
+      "department_name": "Development",
+      "department_id": 1,
+      "city": "Agra",
+      "mobile": "9876543210",
+      "email": "ankit@gmail.com",
+      "joining_date": "2018-08-01",
+      "lat": 27.1767,
+      "lng": 78.0081,
+      "password": "Admin@123",
+      "isLoggedin": false,
+      "isAdmin": false,
+      "last_login": "Jan 31 2020 11:30:32",
+      "hobby": {
+        "sport": [
+          "Cricket",
+          "Football",
+          "Hockey"
+        ],
+        "mental_activity": [
+          "Chess",
+          "Puzzle",
+          "Quiz"
+        ],
+        "cultural": [
+          "Dance",
+          "Drama"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "firstName": "Jagdesh",
+      "lastName": "Saini",
+      "gender": "Male",
+      "date_of_birth": "1992-05-27",
+      "department_name": "Development",
+      "department_id": 1,
+      "city": "Dausa",
+      "mobile": "9876543210",
+      "email": "jagdish@gmail.com",
+      "joining_date": "2019-11-01",
+      "lat": 26.8997,
+      "lng": 76.3324,
+      "password": "Admin@123",
+      "isLoggedin": false,
+      "isAdmin": false,
+      "last_login": "Jan 22 2020 16:21:17",
+      "hobby": {
+        "sport": [
+          "Cricket",
+          "Football",
+          "Hockey"
+        ],
+        "mental_activity": [
+          "Chess",
+          "Puzzle",
+          "Quiz"
+        ],
+        "cultural": [
+          "Singing",
+          "Dance",
+          "Poetry",
+          "Drama"
+        ]
+      }
+    }
+  ],
+  "hobby": {
+    "sport": [
+      "Cricket",
+      "Football",
+      "Hockey"
+    ],
+    "mental_activity": [
+      "Chess",
+      "Puzzle",
+      "Quiz"
+    ],
+    "cultural": [
+      "Singing",
+      "Dance",
+      "Poetry",
+      "Drama"
+    ]
+  }
+}

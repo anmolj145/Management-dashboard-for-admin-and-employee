@@ -1,0 +1,18 @@
+.paper {
+    width: 30%;
+    float: right;
+    margin-top: 7%;
+    margin-left: 2%;
+    margin-right: 2%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.img{
+    width: 65%;
+    float: left;
+    height:100vh;
+    background-image: url(https://source.unsplash.com/random); 
+    background-size: auto;
+}
